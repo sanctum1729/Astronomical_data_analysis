@@ -1,0 +1,1 @@
+Hands on sessions on the concepts of Python that are used and needed for data analysis.
